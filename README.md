@@ -12,7 +12,7 @@ Python enthusiast 🐍
 
 # Languages and Tools:
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsbranquinho&layout=compact&theme=dark" />
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tsbranquinho&layout=compact&theme=dark" />
 </p>
 
 <p align="center"> 
